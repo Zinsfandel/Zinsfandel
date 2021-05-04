@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Zinsfandel
 - 👀 I’m interested in html and css maybe javascript too (frontend)
 - 🌱 I’m currently learning Java, C, Scrach, html, css and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... ? 
+      Yeah you can contact me by 
+      1. email --> zinsxjinn@gmail.com 
+      2. twitter --> @imxyzins
 
 <!---
 Zinsfandel/Zinsfandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
